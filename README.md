@@ -32,4 +32,6 @@
 • 하드웨어 레벨의 명령어 처리 프로세스 구현 및 시뮬레이션
 
 
-## 💡Highlighted Projects 
+
+##🚀 Featured Projects
+
