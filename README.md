@@ -57,10 +57,8 @@
 
 ---
 
-### 🛡️**[지능형물체감지시스](https://km-coding.tistory.com/55)** |👥 인텔 엣지 AI SW아카데미 팀프로젝트
-> *초음파 레이더로 지형을 스캔하여 침입자를 감지하고, 터렛이 자동으로 조준/사격하는 지능형 보안 시스템입니다.* 💥
-
-STM32(FreeRTOS) 기반의 정밀 제어 유닛들과 라즈베리파이 중앙 서버(Socket/DB/Web)가 유기적으로 연동되어, 실시간 탐지 정보를 웹 대시보드와 OLED 디스플레이로 시각화합니다. 💨 ➡️ ✨
+### 🛡️ **[지능형물체감지시스](https://km-coding.tistory.com/55)** |👥 인텔 엣지 AI SW아카데미 팀프로젝트
+> *초음파 레이더로 지형을 스캔하여 침입자를 감지하고, 터렛이 자동으로 조준/사격하는 지능형 보안 시스템입니다. STM32(FreeRTOS) 기반의 정밀 제어 유닛들과 라즈베리파이 중앙 서버(Socket/DB/Web)가 유기적으로 연동되어, 실시간 탐지 정보를 웹 대시보드와 OLED 디스플레이로 시각화합니다.*
 
 * **Key Tech:** arduino, Fine Dust Sensor, Motor Control
 * **Achivement:** 🏆 ICEF 2024 Merit Prize 수상
