@@ -28,7 +28,7 @@
 - ### 🐧 Embedded Linux & BSP
 - **OS/Kernel:** Linux BSP, Device Tree/Overlay
 - **Communication:** MCP2515 (CAN Protocol) configuration
-- **Projects | 스마트 CCTV 시스템 설계 📹
+- **Projects |** 스마트 CCTV 시스템 설계 📹
 
 ### 📡 Network & Connectivity
 - **Protocols:** UDP/TCP, Server-Node communication
