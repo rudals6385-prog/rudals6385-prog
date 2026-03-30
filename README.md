@@ -38,7 +38,7 @@
 ### 🌿 **[PuriFlow](https://km-coding.tistory.com/59)** | 에코 자동차 공기청정기
 > *아두이노,미세먼지 센서,활성탄필터,태양광센서 등 각종 센서들을 이용하여 자동차 위에 설치하여 팬을 돌리는 친환경 공기청정기* 💨 ➡️ ✨
 
-* **Key Tech:** arduino,c
+* **Key Tech:** arduino,![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 * **Achivement:** 🏆 ICEF 2024 Merit Prize 수상
 ---
 
