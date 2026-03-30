@@ -52,23 +52,20 @@
 ### 📹 **[SMART CCTV](https://km-coding.tistory.com/55)** | 👥 인텔 엣지 AI SW아카데미 팀프로젝트
 > *도로와 차량 카메라 정보를 통합하여 운전자에게 실시간으로 예측된 정보를 
 제공하는 I2V시스템 개발을 목표로 한다. 이를 통해 운전자의 주행 판단을 지원하고 사고 예방에 기여할 수 있는 스마트 안전 운전 솔루션을 구현하고자 한다. * 💨 ➡️ ✨
----
 
 * **Key Tech:** ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)![TCP/IP](https://img.shields.io/badge/TCP%2FIP-00599C?style=for-the-badge&logo=ethernet&logoColor=white) ![Raspberry Pi 4](https://img.shields.io/badge/Raspberry%20Pi%204-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
-### 🌿 **[PuriFlow](https://km-coding.tistory.com/55)** | 에코 자동차 공기청정기
-> *아두이노,미세먼지 센서,활성탄필터,태양광센서 등 각종 센서들을 이용하여 자동차 위에 설치하여 팬을 돌리는 친환경 공기청정기* 💨 ➡️ ✨
----
+### 🛡️ **[지능형물체감지시스](https://km-coding.tistory.com/55)** | 에코 자동차 공기청정기
+> *초음파 레이더로 지형을 스캔하여 침입자를 감지하고, 터렛이 자동으로 조준/사격하는 지능형 보안 시스템입니다.* 💥
+
+STM32(FreeRTOS) 기반의 정밀 제어 유닛들과 라즈베리파이 중앙 서버(Socket/DB/Web)가 유기적으로 연동되어, 실시간 탐지 정보를 웹 대시보드와 OLED 디스플레이로 시각화합니다. 💨 ➡️ ✨
 
 * **Key Tech:** arduino, Fine Dust Sensor, Motor Control
 * **Achivement:** 🏆 ICEF 2024 Merit Prize 수상
 ---
 
-
-### 🌿 **[PuriFlow](https://km-coding.tistory.com/59)** | 에코 자동차 공기청정기
-> *아두이노,미세먼지 센서,활성탄필터,태양광센서 등 각종 센서들을 이용하여 자동차 위에 설치하여 팬을 돌리는 친환경 공기청정기* 💨 ➡️ ✨
 
 * **Key Tech:** arduino, Fine Dust Sensor, Motor Control
 * **Achivement:** 🏆 ICEF 2024 Merit Prize 수상
