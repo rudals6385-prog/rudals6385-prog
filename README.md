@@ -1,1 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=slice)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-blue?style=flat&logo=stmicroelectronics)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
