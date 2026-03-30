@@ -49,7 +49,7 @@
 
 * **Key Tech:** ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)![TCP/IP](https://img.shields.io/badge/TCP%2FIP-00599C?style=for-the-badge&logo=ethernet&logoColor=white) ![Raspberry Pi 4](https://img.shields.io/badge/Raspberry%20Pi%204-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-* **Achivement:** 🏆 ICEF 2024 Merit Prize 수상
+* **Achivement:** 💡 인텔 엣지 AI SW아카데미 팀프로젝
 ---
 
 ### 🌿 **[PuriFlow](https://km-coding.tistory.com/55)** | 에코 자동차 공기청정기
