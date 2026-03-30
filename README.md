@@ -23,10 +23,10 @@
 
 | 기술 분류 | 상세 스택 및 도구 | 주요 프로젝트 |
 | :--- | :--- | :--- |
-| **Embedded MCU** | STM32, ATmega128,Pi 4,5 | Puri Flow, 위치조정장치 |
-| **Linux & BSP** | Linux BSP, Device Tree, CAN | 스마트 CCTV 시스템 |
-| **Network** | UDP/TCP, ESP8266 Wi-Fi | 지능형 물체 감지 시스템 |
-| **HardWare** | Verilog | [저조도 감지 시스템](https://km-coding.tistory.com/5), [CPU설계](https://km-coding.tistory.com/4) |
+| **Embedded MCU** | STM32, ATmega128,Pi 4,5 | [PuriFlow](https://km-coding.tistory.com/4), [무선충전위치조정장치](https://km-coding.tistory.com/3) |
+| **Linux & BSP** | Linux BSP, Device Tree, CAN | [SMART CCTV](https://km-coding.tistory.com/55) |
+| **Network** | UDP/TCP, ESP8266 Wi-Fi | [지능형물체감지시스템](https://km-coding.tistory.com/45) |
+| **HardWare** | Verilog | [저조도 감지 시스템](https://km-coding.tistory.com/5), [CPU설계](https://km-coding.tistory.com/6) |
 
 
 • 하드웨어 레벨의 명령어 처리 프로세스 구현 및 시뮬레이션
