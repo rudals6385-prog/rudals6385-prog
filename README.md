@@ -35,14 +35,14 @@
 
 ## 🚀 Featured Projects
 
-### 🌿 **[PuriFlow](https://km-coding.tistory.com/4)** | 에코 자동차 공기청정기
+### 🌿 **[PuriFlow](https://km-coding.tistory.com/4)** | 친환경 자동차 공기청정기
 > *아두이노,미세먼지 센서,활성탄필터,태양광센서 등 각종 센서들을 이용하여 자동차 위에 설치하여 팬을 돌리는 친환경 공기청정기* 💨 ➡️ ✨
 
 * **Key Tech:** ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white),![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 * **Achivement:** 🏆 ICEF 2024 Merit Prize 수상
 ---
 
-### 🌿 **[PuriFlow](https://km-coding.tistory.com/55)** | 에코 자동차 공기청정기
+### 🌿 **[PuriFlow](https://km-coding.tistory.com/55)** | 스마트 CCTV
 > *도로와 차량 카메라 정보를 통합하여 운전자에게 실시간으로 예측된 정보를 
 제공하는 I2V시스템 개발을 목표로 한다. 이를 통해 운전자의 주행 판단을 지원하고 사고 예방에 기여할 수 있는 스마트 안전 운전 솔루션을 구현하고자 한다. * 💨 ➡️ ✨
 ---
