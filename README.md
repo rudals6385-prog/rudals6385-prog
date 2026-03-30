@@ -36,7 +36,7 @@
 ## 🚀 Featured Projects
 
 ### 🌿 **[PuriFlow](https://km-coding.tistory.com/4)** | 🏅 ICEF글로벌 캡스톤
-> *아두이노,미세먼지 센서,활성탄필터,태양광센서 등 각종 센서들을 이용하여 자동차 위에 설치하여 팬을 돌리는 친환경 공기청정기* 💨 ➡️ ✨
+> *아두이노,미세먼지 센서,활성탄필터,태양광센서 등 각종 센서들을 이용하여 자동차 위에 설치하여 팬을 돌리는 친환경 공기청정기* 
 
 * **Key Tech:** ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 * **Achivement:** 🏆 ICEF 2024 Merit Prize 수상
@@ -44,10 +44,11 @@
 ---
 
 ### ⚙️ **[무선충전위치조정장치](https://km-coding.tistory.com/3)** | 🏅 상명대학교 경진대회
-> *Atmega 128 초음파센서 와 모터 등을 이용하여 무선충전 모듈이 알맞은 위치에 정착 할 수 있는 시스템* 💨 ➡️ ✨
+> *Atmega 128 초음파센서 와 모터 등을 이용하여 무선충전 모듈이 알맞은 위치에 정착 할 수 있는 시스템* 
 
 * **Key Tech:** ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)![ATmega128](https://img.shields.io/badge/ATmega128-00979D?style=for-the-badge&logo=microchip&logoColor=white)
-* **Achivement:** 🏆 동상수상 
+* **Achivement:** 🏆 동상수상
+* **핵심 알고리즘:** 초음파 센서 데이터 기반의 오차 보정 및 스테핑 모터 정밀 위치 제어 로직
 ---
 
 ### 📹 **[SMART CCTV](https://km-coding.tistory.com/55)** | 👥 인텔 엣지 AI SW아카데미 팀프로젝트
