@@ -42,7 +42,7 @@
 * **Achivement:** 🏆 ICEF 2024 Merit Prize 수상
 ---
 
-### 🌿 **[PuriFlow](https://km-coding.tistory.com/55)** | 스마트 CCTV
+### 🌿 **[SMART CCTV](https://km-coding.tistory.com/55)** | 스마트 CCTV
 > *도로와 차량 카메라 정보를 통합하여 운전자에게 실시간으로 예측된 정보를 
 제공하는 I2V시스템 개발을 목표로 한다. 이를 통해 운전자의 주행 판단을 지원하고 사고 예방에 기여할 수 있는 스마트 안전 운전 솔루션을 구현하고자 한다. * 💨 ➡️ ✨
 ---
