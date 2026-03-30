@@ -54,7 +54,7 @@
 제공하는 I2V시스템 개발을 목표로 한다. 이를 통해 운전자의 주행 판단을 지원하고 사고 예방에 기여할 수 있는 스마트 안전 운전 솔루션을 구현하고자 한다.*
 
 * **Key Tech:** ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)![TCP/IP](https://img.shields.io/badge/TCP%2FIP-00599C?style=for-the-badge&logo=ethernet&logoColor=white)![Raspberry Pi 4](https://img.shields.io/badge/Raspberry%20Pi%204-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
+* **핵심 알고리즘:** FreeRTOS 기반 우선순위 스케줄링, Queue를 활용한 데이터 무결성 확보 TCP/IP (영상 전송), CAN Bus (차량 내부 제어 신호 전달)
 ---
 
 ### 🛡️ **[지능형물체감지시스템](https://km-coding.tistory.com/45)** |👥 인텔 엣지 AI SW아카데미 팀프로젝트
