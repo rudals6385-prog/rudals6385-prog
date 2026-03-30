@@ -35,8 +35,14 @@
 
 ## 🚀 Featured Projects
 
-[💨[Puri Flow]](https://km-coding.tistory.com/59)] 
+### 🌿 Puri Flow | 에코 자동차 공기청정기
+> *미세먼지 센서와 하드웨어 제어로 깨끗한 실내 공기를 만듭니다.* 💨 ➡️ ✨
 
+* **Key Tech:** STM32, Fine Dust Sensor, Motor Control
+* **Achivement:** 🏆 ICEF 2024 Merit Prize 수상
+* 🔗 **[상세보기(Blog)](https://km-coding.tistory.com/59)**
+
+* 
 [💨[Puri Flow]](https://km-coding.tistory.com/59)]
 
 [💨[Puri Flow]](https://km-coding.tistory.com/59)]
