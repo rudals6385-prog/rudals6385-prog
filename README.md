@@ -35,7 +35,4 @@
 
 ## 🚀 Featured Projects
 
-[프로젝트 이름](https://프로젝트-주소.com)
-| **Puri Flow** | STM32, Fine Dust Sensor | [상세 보기(Blog)](https://km-coding.tistory.com/59) |
-| **Smart CCTV** | Embedded Linux, BSP | [코드 보기(GitHub)](https://github.com/아이디
-
+[![배지이름](배지이미지주소)](연결할링크주소)
