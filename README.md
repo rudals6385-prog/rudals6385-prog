@@ -35,14 +35,14 @@
 
 ## 🚀 Featured Projects
 
-### 🌿 **[PuriFlow](https://km-coding.tistory.com/4)** | ICEF글로벌 캡스톤
+### 🌿 **[PuriFlow](https://km-coding.tistory.com/4)** | 🏅 ICEF글로벌 캡스톤
 > *아두이노,미세먼지 센서,활성탄필터,태양광센서 등 각종 센서들을 이용하여 자동차 위에 설치하여 팬을 돌리는 친환경 공기청정기* 💨 ➡️ ✨
 
 * **Key Tech:** ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white),![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 * **Achivement:** 🏆 ICEF 2024 Merit Prize 수상
 ---
 
-### 🌿 **[무선충전위치조정장치](https://km-coding.tistory.com/3)** | 상명대학교 교내대회
+### 🌿 **[무선충전위치조정장치](https://km-coding.tistory.com/3)** | 🏅 상명대학교 경진대회
 > *Atmega 128 초음파센서 와 모터 등을 이용하여 무선충전 모듈이 알맞은 위치에 정착 할 수 있는 시스템* 💨 ➡️ ✨
 ---
 
