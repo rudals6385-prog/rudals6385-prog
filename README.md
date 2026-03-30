@@ -78,6 +78,5 @@
 
 | Channel | Link |
 | :--- | :--- |
-
 | **Email** | [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rudals6385@naver.com) |
 | **Portfolio** | [![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://km-coding.tistory.com/category/%EC%9E%84%EB%B2%A0%EB%94%94%EB%93%9C) |
