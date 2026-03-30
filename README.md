@@ -46,8 +46,8 @@
 > *아두이노,미세먼지 센서,활성탄필터,태양광센서 등 각종 센서들을 이용하여 자동차 위에 설치하여 팬을 돌리는 친환경 공기청정기* 💨 ➡️ ✨
 ---
 
-* **Key Tech:** arduino, Fine Dust Sensor, Motor Control
-* **Achivement:** 🏆 ICEF 2024 Merit Prize 수상
+* **Key Tech:** ![ATmega128](https://img.shields.io/badge/ATmega128-00979D?style=for-the-badge&logo=microchip&logoColor=white),![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+* **Achivement:** 🏆 동상수상 
 ---
 
 ### 📹 **[SMART CCTV](https://km-coding.tistory.com/55)** | 인텔 엣지 AI SW아카데미 팀프로젝트
