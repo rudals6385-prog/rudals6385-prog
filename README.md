@@ -37,4 +37,4 @@
 
 [![배지이름](배지이미지주소)](연결할링크주소)
 
-[![PuriFlow](Air Purifier)](https://km-coding.tistory.com/4)
+![Award](https://img.shields.io/badge/ICEF%202024-Merit%20Prize-FFD700?style=for-the-badge&logo=award&logoColor=black)
