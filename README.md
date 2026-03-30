@@ -40,7 +40,7 @@
 
 * **Key Tech:** arduino, Fine Dust Sensor, Motor Control
 * **Achivement:** 🏆 ICEF 2024 Merit Prize 수상
-* 🔗 **[상세보기(Blog)](https://km-coding.tistory.com/59)**
+
 
 * 
 [💨[Puri Flow]](https://km-coding.tistory.com/59)]
