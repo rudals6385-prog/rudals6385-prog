@@ -37,4 +37,4 @@
 
 [![배지이름](배지이미지주소)](연결할링크주소)
 
-[![Puri Flow](https://img.shields.io/badge/Air%20Purifier-Puri%20Flow-4CAF50?style=for-the-badge&logo=leaf&logoColor=white)](https://km-coding.tistory.com/59)
+[![Puri Flow]](https://km-coding.tistory.com/59)
