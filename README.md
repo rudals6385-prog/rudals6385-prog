@@ -44,7 +44,6 @@
 
 ### 🌿 **[무선충전위치조정장치](https://km-coding.tistory.com/3)** | 🏅 상명대학교 경진대회
 > *Atmega 128 초음파센서 와 모터 등을 이용하여 무선충전 모듈이 알맞은 위치에 정착 할 수 있는 시스템* 💨 ➡️ ✨
----
 
 * **Key Tech:** ![ATmega128](https://img.shields.io/badge/ATmega128-00979D?style=for-the-badge&logo=microchip&logoColor=white),![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 * **Achivement:** 🏆 동상수상 
