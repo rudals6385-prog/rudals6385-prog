@@ -23,10 +23,10 @@
 
 | 기술 분류 | 상세 스택 및 도구 | 주요 프로젝트 |
 | :--- | :--- | :--- |
-| **Embedded MCU** | STM32, ATmega128, FreeRTOS | Puri Flow, 위치조정장치 |
+| **Embedded MCU** | STM32, ATmega128,Pi 4,5 | Puri Flow, 위치조정장치 |
 | **Linux & BSP** | Linux BSP, Device Tree, CAN | 스마트 CCTV 시스템 |
 | **Network** | UDP/TCP, ESP8266 Wi-Fi | 지능형 물체 감지 시스템 |
-| **Algorithm** | C/C++, Verilog, CPU 설계 | 8-bit 가산기 설계 |
+| **HardWare** | Verilog | 8-bit 가산기 설계, 싱글 사이클 CPU 설계 |
 
 
 • 하드웨어 레벨의 명령어 처리 프로세스 구현 및 시뮬레이션
