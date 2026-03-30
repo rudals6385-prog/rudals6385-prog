@@ -35,7 +35,7 @@
 
 ## 🚀 Featured Projects
 
-### 🌿 **[PuriFlow](https://km-coding.tistory.com/4)** | 🏅 ICEF글로벌 캡스톤
+### 🌿 **[PuriFlow](https://km-coding.tistory.com/4)** | 🏅 ICEF글로벌 캡스톤디자인
 > *아두이노,미세먼지 센서,활성탄필터,태양광센서 등 각종 센서들을 이용하여 자동차 위에 설치하여 팬을 돌리는 친환경 공기청정기* 
 
 * **Key Tech:** ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
