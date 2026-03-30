@@ -40,6 +40,7 @@
 
 * **Key Tech:** ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 * **Achivement:** 🏆 ICEF 2024 Merit Prize 수상
+* * **핵심 알고리즘:** 데이터값 링버퍼,이동평균필터 알고리즘 적용
 ---
 
 ### ⚙️ **[무선충전위치조정장치](https://km-coding.tistory.com/3)** | 🏅 상명대학교 경진대회
